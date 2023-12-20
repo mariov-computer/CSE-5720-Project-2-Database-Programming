@@ -1,0 +1,40 @@
+Connected to MySQL Server version  8.0.32
+You're connected to database:  ('project2',)
+Publisher:
+(1, 'WILLEY', 'WDT@VSNL.NET', '9112326087')
+(2, 'WROX', 'INFO@WROX.COM', 'NULL')
+(3, 'TATA MCGRAW-HILL', 'FEEDBACK@TATAMCGRAWHILL.COM', '9133333322')
+(4, 'TECHMEDIA', 'BOOKS@TECHMEDIA.COM', '9133257660')
+function 1 output success
+Customer table created
+function 2 output success
+0 customers inserted
+function 3 output success
+Bookworm author:
+DAVAID HUNTER has written 2 books
+function 4 output success
+Publishers and total price:
+WILLEY - 475
+WROX - 875
+TATA MCGRAW-HILL - 1074
+TECHMEDIA - 540
+function 5 output success
+Names of all authors who have wrote a book that has the word Java in its name:
+DAVAID HUNTER
+ED.ROMANS
+function 6 output success
+Names of all authors who written a book with price between 475 and 500 and cover type of paperback:
+ED.ROMANS
+DAVAID HUNTER
+function 7 output success
+Names of authors who have wrote books on Visual basic.net but not oracle database:
+JAMES GOODWILL
+DAVAID HUNTER
+function 8 output success
+Names of all whose email address contains gmail:
+STEPHEN WALTHER
+function 9 output success
+6 SQL records updated, please do the math to double check
+function 10 output success
+MySQL connection is closed
+Press any key to continue . . .
